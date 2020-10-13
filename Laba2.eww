@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\Лаба2 (3)\IAR1laba.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Laba1_Yermokhin_Shundeev-master\Project\IAR1laba.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\Documents\GitHub\stm32Labs\Lab4\lab4.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Laba2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
